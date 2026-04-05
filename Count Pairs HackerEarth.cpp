@@ -3,7 +3,7 @@ using namespace std;
 
 const int MAXN = 10000000;
 
-int cnt[MAXN + 1]; // global — zero-initialized automatically
+int cnt[MAXN + 1]; 
 
 int main() {
     ios_base::sync_with_stdio(false);
