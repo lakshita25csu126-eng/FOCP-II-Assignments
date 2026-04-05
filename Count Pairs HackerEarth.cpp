@@ -24,7 +24,7 @@ int main() {
         int n;
         cin >> n;
 
-        cout << (1 << cnt[n]) << '\n'; // 2^k directly
+        cout << (1 << cnt[n]) << '\n'; 
     }
 
     return 0;
